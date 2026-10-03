@@ -470,9 +470,7 @@ Before running the project, install:
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/f1-traceability-neo4j.git
-
-cd f1-traceability-neo4j
+git clone https://github.com/LohithErwin/F1PartTraceability.git
 ```
 
 ---
